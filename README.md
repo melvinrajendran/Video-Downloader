@@ -4,4 +4,4 @@
 
 This repository houses the source code for a Python script that downloads a YouTube video by URL. It uses the sys and pytube packages to access command line arguments and download YouTube video streams, respectively. I also created a zsh script for ease of use.
 
-I had the idea to build this simple project when packing to travel long-distance, as I wanted to watch a couple YouTube videos without wasting cellular data. I found that YouTube Premium enables this functionality, but only for $12 per month. After some digging, I realized that a short Python script and the pytube package could enable the same functionality but faster and free.
+I had the idea to build this simple project when packing to travel long-distance, as I wanted to watch a couple YouTube videos without wasting cellular data. I found that YouTube Premium enables this functionality, but only for $12 per month. After some digging, I realized that a short Python script using the pytube package could enable the same functionality, all while being both faster and free.
